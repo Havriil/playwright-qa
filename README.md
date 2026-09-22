@@ -1,5 +1,5 @@
 # Playwright QA
-
+![Playwright Tests](https://github.com/Havriil/playwright-qa/actions/workflows/playwright.yml/badge.svg)
 UI and API test suite in Playwright with TypeScript, run on GitHub Actions.
 
 ## Run
